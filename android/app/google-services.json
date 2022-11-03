@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848615183794",
+    "project_id": "toko-tanaman-9ef57",
+    "storage_bucket": "toko-tanaman-9ef57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848615183794:android:9b05f3439105e381bcc0ab",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848615183794-c8h1quh0lrs3vbgemmhe8sbf71du3b6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "050d4b68cde2226a3bcb7dea9288c11bb7bca2e0"
+          }
+        },
+        {
+          "client_id": "848615183794-fckjh71kajrsv9u8d2js6psfuhabnila.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjlqdZcLiJyvQ4w2Y4UGzhnIt6y4jK1O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848615183794-fckjh71kajrsv9u8d2js6psfuhabnila.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
